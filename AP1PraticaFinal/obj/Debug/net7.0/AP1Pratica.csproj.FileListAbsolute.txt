@@ -1,0 +1,14 @@
+C:\Users\eduardo-mp\Desktop\AP1Pratica\bin\Debug\net7.0\AP1Pratica.exe
+C:\Users\eduardo-mp\Desktop\AP1Pratica\bin\Debug\net7.0\AP1Pratica.deps.json
+C:\Users\eduardo-mp\Desktop\AP1Pratica\bin\Debug\net7.0\AP1Pratica.runtimeconfig.json
+C:\Users\eduardo-mp\Desktop\AP1Pratica\bin\Debug\net7.0\AP1Pratica.dll
+C:\Users\eduardo-mp\Desktop\AP1Pratica\bin\Debug\net7.0\AP1Pratica.pdb
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.AssemblyInfoInputs.cache
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.AssemblyInfo.cs
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.csproj.CoreCompileInputs.cache
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.dll
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\refint\AP1Pratica.dll
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.pdb
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\AP1Pratica.genruntimeconfig.cache
+C:\Users\eduardo-mp\Desktop\AP1Pratica\obj\Debug\net7.0\ref\AP1Pratica.dll
